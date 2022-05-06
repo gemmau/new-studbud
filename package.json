@@ -1,0 +1,23 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "a place for week 7 content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamsall/studbud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamsall/studbud/issues"
+  },
+  "homepage": "https://github.com/hamsall/studbud#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
